@@ -13,7 +13,8 @@
         "base32": ">= 0.0.5",
         "log4js": ">= 0.3.0",
         "vows": ">= 0.5.6",
-        "dht.js": ">= 0.2.14"
+        "dht.js": ">= 0.2.14", 
+        "bencode" : "*"
     },
     "directories": {
         "lib": "./lib"
